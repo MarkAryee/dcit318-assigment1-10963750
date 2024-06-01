@@ -1,0 +1,15 @@
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\bin\Debug\net6.0\GradeCal.exe
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\bin\Debug\net6.0\GradeCal.deps.json
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\bin\Debug\net6.0\GradeCal.runtimeconfig.json
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\bin\Debug\net6.0\GradeCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\bin\Debug\net6.0\GradeCal.pdb
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.csproj.AssemblyReference.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.AssemblyInfoInputs.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.AssemblyInfo.cs
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.csproj.CoreCompileInputs.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\refint\GradeCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.pdb
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\GradeCal.genruntimeconfig.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\GradeCal\GradeCal\obj\Debug\net6.0\ref\GradeCal.dll
