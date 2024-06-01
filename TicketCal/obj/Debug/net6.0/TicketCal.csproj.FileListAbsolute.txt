@@ -1,0 +1,15 @@
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\bin\Debug\net6.0\TicketCal.exe
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\bin\Debug\net6.0\TicketCal.deps.json
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\bin\Debug\net6.0\TicketCal.runtimeconfig.json
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\bin\Debug\net6.0\TicketCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\bin\Debug\net6.0\TicketCal.pdb
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.csproj.AssemblyReference.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.AssemblyInfoInputs.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.AssemblyInfo.cs
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.csproj.CoreCompileInputs.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\refint\TicketCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.pdb
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\TicketCal.genruntimeconfig.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TicketCal\obj\Debug\net6.0\ref\TicketCal.dll
