@@ -1,0 +1,15 @@
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\bin\Debug\net6.0\TriCal.exe
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\bin\Debug\net6.0\TriCal.deps.json
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\bin\Debug\net6.0\TriCal.runtimeconfig.json
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\bin\Debug\net6.0\TriCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\bin\Debug\net6.0\TriCal.pdb
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.csproj.AssemblyReference.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.AssemblyInfoInputs.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.AssemblyInfo.cs
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.csproj.CoreCompileInputs.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\refint\TriCal.dll
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.pdb
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\TriCal.genruntimeconfig.cache
+C:\Users\userr\Documents\1-Project_School\Project_C#\TriCal\obj\Debug\net6.0\ref\TriCal.dll
